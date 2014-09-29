@@ -1,4 +1,4 @@
-top-down-space-shooter
+Top Down Space Shooter
 ======================
 
 I've been meaning to play with Apache Cordova for some time, so here's my first attempt.
